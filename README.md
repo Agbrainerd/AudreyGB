@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AudreyGB
-- 👀 I’m interested in learning how to make helpful applications for everyday usage and full-stack development for pursuing personal and free-lance projects
-- 🌱 I’m currently learning general programming principles, object-oriented programming, and Python
-- 💞️ I’m looking to collaborate on the process of learning, by working with my professors at school
-- 📫 How to reach me ... don't bother at the moment
+- 👀 I’m interested in learning how to make helpful applications for everyday usage and full-stack web development
+- 🌱 I am working on improving with Python and C++, Data Structures and Algorithms, and Learning SQL and JAVA as well 
+- 📫 How to reach me ... call me, beep me
 
 <!---
 AudreyGB/AudreyGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
